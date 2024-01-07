@@ -17,7 +17,7 @@ This project aims to classify images of pistachios into two types: Kirmizi (KP) 
 To set up the project environment:
 
 ```bash
-git clone https://github.com/your-github-username/pistachio-image-classifier.git
+git clone https://github.com/your-github-username/pistachio-image-classifier.git](https://github.com/Tamaghnatech/Pistachios
 cd pistachio-image-classifier
 pip install -r requirements.txt
 ```
