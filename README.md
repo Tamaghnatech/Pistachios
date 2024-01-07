@@ -1,5 +1,5 @@
 # Project Title: Pistachio Image Classifier
-![Pistachio Classifier](sirt.jpeg)
+![Pistachio Classifier](sirt.jpg)
 
 ## Description
 This project aims to classify images of pistachios into two types: Kirmizi (KP) and Siirt (SP). It uses Convolutional Neural Networks (CNNs) and additional feature data for accurate classification. This README provides an overview of the project, setup instructions, and usage details.
